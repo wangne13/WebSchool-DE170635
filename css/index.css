@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+    .jumbotron {
+        padding: 50px 0;
+    }
+}
+footer {
+    background-color: #333; 
+}
+.chinh-credit{
+    padding-top: 20px;
+}
